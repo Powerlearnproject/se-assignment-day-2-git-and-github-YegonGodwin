@@ -16,9 +16,9 @@ Reverting to Previous Versions:
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
  #Create a repository
 -In the upper-right corner of any page, select , then click New repository.
--Type a short, memorable name for your repository. ...
--Optionally, add a description of your repository. ...
--Choose a repository visibility. ...
+-Type a short, memorable name for your repository. 
+-Optionally, add a description of your repository.
+-Choose a repository visibility.
 -Select Initialize this repository with a README.
 -Click Create repository.
 
